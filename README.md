@@ -1,5 +1,6 @@
 # LogitechQuadrantUSBArduino
-This is for converting a Logitech/Saitek Quadrant to USB using a Arduino clone if the axis uses the analog din and you want to use a normal USB-port.
+This is for converting a Logitech/Saitek Quadrant to USB using a Arduino clone.
+I did this since my quadrant used the analog din plug and I wanted to use a normal USB-port.
 
 Mostly followed this tutorial for the hardware:
 https://forums.x-plane.org/index.php?/forums/topic/240443-saitek-throttle-quadrant-usb-conversion-using-arduino/
